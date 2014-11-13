@@ -5,7 +5,7 @@ wiiflashclient.rb
 ■概要
 ------
 
-WiiFlashServer(<https://github.com/spoolkitamura/WiiFlashServer-TR/releases/tag/0.4.5-tr>)と
+WiiFlashServer(<https://github.com/spoolkitamura/WiiFlashServer-TR)と
 ソケット通信をおこない、Rubyのアプリケーションから Wiiリモコンの状態を
 取得できるようにするためのクラスライブラリです。
 
